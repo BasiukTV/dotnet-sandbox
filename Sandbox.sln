@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-ToDoList", "Ult
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-StarWarsPlanetsStats", "UltCSMaster-StarWarsPlanetsStats\UltCSMaster-StarWarsPlanetsStats.csproj", "{1C73207E-D5F4-4AD5-95C8-F54D4AB097D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-CustomLinkedList", "UltCSMaster-CustomLinkedList\UltCSMaster-CustomLinkedList.csproj", "{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{1C73207E-D5F4-4AD5-95C8-F54D4AB097D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C73207E-D5F4-4AD5-95C8-F54D4AB097D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C73207E-D5F4-4AD5-95C8-F54D4AB097D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
