@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-StarWarsPlanets
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-CustomLinkedList", "UltCSMaster-CustomLinkedList\UltCSMaster-CustomLinkedList.csproj", "{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-FibonacciGenerator", "UltCSMaster-FibonacciGenerator\UltCSMaster-FibonacciGenerator.csproj", "{7BC865F4-BF86-4446-A877-62A6B40646F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-FibonacciGeneratorTests", "UltCSMaster-FibonacciGeneratorTests\UltCSMaster-FibonacciGeneratorTests.csproj", "{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42D79884-72B5-4EE2-A8CF-65503A8BB6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC865F4-BF86-4446-A877-62A6B40646F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC865F4-BF86-4446-A877-62A6B40646F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC865F4-BF86-4446-A877-62A6B40646F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC865F4-BF86-4446-A877-62A6B40646F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
