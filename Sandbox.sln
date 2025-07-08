@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-FibonacciGenera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltCSMaster-FibonacciGeneratorTests", "UltCSMaster-FibonacciGeneratorTests\UltCSMaster-FibonacciGeneratorTests.csproj", "{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_DiceRollGameToBeTested", "14_DiceRollGameToBeTested\14_DiceRollGameToBeTested.csproj", "{78513117-C3A8-4034-A56C-3052BFBEF592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_DiceRollGameToBeTestedTests", "14_DiceRollGameToBeTestedTests\14_DiceRollGameToBeTestedTests.csproj", "{5A4E2CC7-3DDA-4F02-8BA4-EB3CF9325E1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +88,13 @@ Global
 		{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88C70CBF-8C1B-4EB1-899E-4233AD737AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78513117-C3A8-4034-A56C-3052BFBEF592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78513117-C3A8-4034-A56C-3052BFBEF592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78513117-C3A8-4034-A56C-3052BFBEF592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78513117-C3A8-4034-A56C-3052BFBEF592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4E2CC7-3DDA-4F02-8BA4-EB3CF9325E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4E2CC7-3DDA-4F02-8BA4-EB3CF9325E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4E2CC7-3DDA-4F02-8BA4-EB3CF9325E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4E2CC7-3DDA-4F02-8BA4-EB3CF9325E1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
